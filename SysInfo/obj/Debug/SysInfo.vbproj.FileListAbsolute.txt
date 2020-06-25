@@ -1,0 +1,12 @@
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\bin\Debug\SysInfo.xml
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\obj\Debug\SysInfo.frmMain.resources
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\obj\Debug\SysInfo.Resources.resources
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\obj\Debug\SysInfo.vbproj.GenerateResource.cache
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\obj\Debug\SysInfo.vbproj.CoreCompileInputs.cache
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\obj\Debug\SysInfo.exe
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\obj\Debug\SysInfo.xml
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\obj\Debug\SysInfo.pdb
+C:\Users\dgrewal\Documents\My Projects\Development\SysInfo\SysInfo\obj\Debug\SysInfo.vbprojAssemblyReference.cache
